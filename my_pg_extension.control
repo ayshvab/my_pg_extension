@@ -1,0 +1,2 @@
+comment = 'My PostgreSQL Extension'
+default_version = '0.0.1'

@@ -1,0 +1,16 @@
+References
+--------------
+
+Experiments with Postgres Table Access Methods 
+https://github.com/eatonphil/pgtam
+
+Messing with Postgres query execution and hook infrastructure.
+Resources
+https://github.com/eatonphil/pgexec
+
+Development
+-------------
+To create 'compile_commands.json' that needed for clangd.
+bear -- make
+
+https://github.com/rizsotto/Bear

@@ -1,0 +1,9 @@
+postgres
+pg-install
+compile_commands.json
+.deps
+.cache
+*.o
+*.so
+logfile
+test-db
