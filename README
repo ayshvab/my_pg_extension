@@ -8,6 +8,9 @@ Messing with Postgres query execution and hook infrastructure.
 Resources
 https://github.com/eatonphil/pgexec
 
+Postgresql hooks documentation
+https://github.com/taminomara/psql-hooks
+
 Development
 -------------
 To create 'compile_commands.json' that needed for clangd.
