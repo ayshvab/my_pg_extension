@@ -11,6 +11,9 @@ https://github.com/eatonphil/pgexec
 Postgresql hooks documentation
 https://github.com/taminomara/psql-hooks
 
+B-Tree resources
+https://eatonphil.com/btrees.html
+
 Development
 -------------
 To create 'compile_commands.json' that needed for clangd.
